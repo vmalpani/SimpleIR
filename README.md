@@ -1,7 +1,7 @@
 			-----------------------------
 			   SEARCH ENGINE TECHNOLOGY
 			-----------------------------
-1. Vaibhav Malpani			vom2102
+Author: Vaibhav Malpani
 
 ===================================================================
 CODE ARCHITECTURE :
